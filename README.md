@@ -47,14 +47,17 @@ Sample data:
 ```bash
 git clone https://github.com/your-username/area-price-prediction.git
 cd area-price-prediction
+```
 
 ### 2️⃣ Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit pickle
+```
 
 ### 3️⃣ Run the Streamlit App
 
 ```bash
 streamlit run app.py
+```
 
